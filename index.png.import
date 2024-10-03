@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cfu0jk6kcxky1"
-path="res://.godot/imported/unipositions.png-837d428dbf14073f4e204cb78a684a48.ctex"
+uid="uid://bx8fumf8q6bvc"
+path="res://.godot/imported/index.png-598db4bc1a486d88543275db98553c06.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://html/unipositions.png"
-dest_files=["res://.godot/imported/unipositions.png-837d428dbf14073f4e204cb78a684a48.ctex"]
+source_file="res://html/index.png"
+dest_files=["res://.godot/imported/index.png-598db4bc1a486d88543275db98553c06.ctex"]
 
 [params]
 
